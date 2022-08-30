@@ -1,1 +1,1 @@
-FROM registry.k8s.io/etcd:3.5.4-0
+FROM k8s.gcr.io/etcd:3.5.4-0
